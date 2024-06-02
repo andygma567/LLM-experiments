@@ -1,0 +1,5 @@
+llama-index
+llama-index-llms-ollama
+# I had to look at the llamahub tool name to do this
+llama-index-tools-duckduckgo
+langfuse
